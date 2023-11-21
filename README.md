@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrihari2795&label=Profile%20views&color=0e75b6&style=flat" alt="shrihari2795" /> </p>
 
-- 🔭 I’m currently working on **Google Data Analytics**
+- 🔭 I’m currently working on **Google Data Analytics Certification**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **R Programming Language and Tableau**
 
 - 👯 I’m looking to collaborate on **Data Analysis and Business Intelligence opportunities**
 
