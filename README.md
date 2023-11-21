@@ -1,5 +1,7 @@
+[![MasterHead](https://i.postimg.cc/sX8T0K8n/Black-White-Modern-Minimalist-Data-Analyst-Linked-In-Banner.png)](https://shrihari2795.io)
 <h1 align="center">Hi 👋, I'm Shrihari Sadagopan</h1>
 <h3 align="center">A result driven Business Intelligence and Data Analyst</h3>
+<img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrihari2795&label=Profile%20views&color=0e75b6&style=flat" alt="shrihari2795" /> </p>
 
