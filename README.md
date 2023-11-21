@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrihari Sadagopan</h1>
 <h3 align="center">A result driven Business Intelligence and Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=584142833&rlz=1C1JZAP_enIN945IN945&q=data+analyst+gif+images&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj5qc3R7tOCAxV_gP0HHbDKCx4Q0pQJegQICxAB&biw=1536&bih=730&dpr=1.25#imgrc=IA-aRpasDaggTM")>
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/search?sca_esv=584142833&rlz=1C1JZAP_enIN945IN945&q=data+analyst+gif+images&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj5qc3R7tOCAxV_gP0HHbDKCx4Q0pQJegQICxAB&biw=1536&bih=730&dpr=1.25#imgrc=IA-aRpasDaggTM](https://www.google.com/search?sca_esv=584142833&rlz=1C1JZAP_enIN945IN945&q=data+analyst+gif+images&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj5qc3R7tOCAxV_gP0HHbDKCx4Q0pQJegQICxAB&biw=1536&bih=730&dpr=1.25#imgrc=IA-aRpasDaggTM)")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrihari2795&label=Profile%20views&color=0e75b6&style=flat" alt="shrihari2795" /> </p>
 
